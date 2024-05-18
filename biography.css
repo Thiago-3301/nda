@@ -1,0 +1,83 @@
+body{
+    background-color: #CFDCE4;
+}
+
+#start_about_me{
+    width: 100%;
+    display: flex;
+    margin-top: 3rem;
+    justify-content: center;
+}
+
+#start_about_me h2{
+    font-size: 2.2rem;
+    font-weight: 900;
+    color: var(--color_two);
+    border: 2px solid black;
+    border-radius: 7px;
+    padding: 0.8rem 1.5rem;
+    width: auto;
+}
+
+#start_about_me span{
+    width: 50%;
+    background-color: var(--color_two);
+    margin-left: 5rem;
+    border-radius: 7px ;
+}
+
+#second_part{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+  
+.container1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40%;
+    height: 100%;
+    margin-top: 6rem;
+    margin-right: 2.5rem;
+}
+
+/* Esse container p vai para todas os parágrafos */
+.container p{
+    font-size: 2.4rem;
+    line-height: 1.6;
+    font-weight: 600;
+}
+
+.image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-left: 0.5rem solid black;
+    height: 40rem;
+    margin-top: 7rem;
+}
+
+.image img{
+    width: 40rem;
+    height: 36rem;
+    margin-left: 4rem;
+}
+
+#third_part{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.container2{
+    width: 64.5%;
+    margin-top: 7rem;
+
+}
+
+
+
+
