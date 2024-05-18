@@ -125,3 +125,34 @@ header{
     }
 
 }
+
+@media screen and (max-width: 800px) {
+    #acessibilidade h1{
+        font-size: 1.4rem;
+        
+    }
+    
+    #acessibilidade p{
+        font-size: 0.7rem;
+    
+    }
+    
+    #acessibilidade a{
+        font-size: 0.7rem;
+        
+    }
+    
+    .navigation a{
+        font-size: 0.7rem;
+    }
+    
+    #social_media{
+        height: 1.7rem;
+        font-size: 1.7rem;
+    }
+    
+    #social_media a{
+        font-size: 2rem;
+    }
+
+}
